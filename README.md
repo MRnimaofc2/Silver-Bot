@@ -1,4 +1,4 @@
-<h1 align="center">  [🥷]─⦁ 𝚂𝙸𝙻𝚅𝙴𝚁 𝙱𝙾𝚃 ⦁─[🥷] </h1 align="center">
+<h1 align="center">   𝚂𝙸𝙻𝚅𝙴𝚁 𝙱𝙾𝚃 </h1 align="center">
 
 #
 #
